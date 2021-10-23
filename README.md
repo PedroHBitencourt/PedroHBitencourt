@@ -1,8 +1,9 @@
-Olá, Eu sou o Pedro H Bitencourt😃 
+Olá, Tudo bem? me chamo Pedro Henrique Bitencourt, mas pode me chamar de Pedro 😄
 
-- 🌱 Atualmente estou estudando sobre Python
-- 📫 Contate-me pelo e-mail: pedro.bitencourt.dev@gmail.com 
-- 😄 Pronomes: Ele/Dele
+Estou no 2º semestre de Análise e desenvolvimento de sistemas na faculdade FECAF, porém já fiz um curso técnico na ETEC Albert Einstein.😎
+
+Atualmente estou me aprofundando em Python, estou fazendo pequenos projetos pessoais, para ir conseguir progredindo aos poucos.
+
 
 ##
 
