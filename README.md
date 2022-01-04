@@ -5,6 +5,7 @@ Estou no 2º semestre de Análise e desenvolvimento de sistemas na faculdade FEC
 Atualmente estou me aprofundando em Python, estou fazendo pequenos projetos pessoais, para ir conseguir progredindo aos poucos.
 
 E-mail: pedro.bitencourt.dev@gmail.com
+
 WhatsApp: +55 11 96213-3126
 
 ##
