@@ -7,6 +7,7 @@ Atualmente estou me aprofundando em Python, estou fazendo pequenos projetos pess
 ##
 
 Redes Sociais:
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-bitencourt-dias-704a65170/)
 
 ##
