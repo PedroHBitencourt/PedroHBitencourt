@@ -4,11 +4,15 @@ Estou no 2º semestre de Análise e desenvolvimento de sistemas na faculdade FEC
 
 Atualmente estou me aprofundando em Python, estou fazendo pequenos projetos pessoais, para ir conseguir progredindo aos poucos.
 
+E-mail: pedro.bitencourt.dev@gmail.com
+WhatsApp: +55 11 96213-3126
+
 ##
 
 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-bitencourt-dias-704a65170/)
+
 
 ##
 
