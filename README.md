@@ -1,6 +1,6 @@
 Olá, Tudo bem? me chamo Pedro Henrique Bitencourt, mas pode me chamar de Pedro 😄
 
-Estou no 2º semestre de Análise e desenvolvimento de sistemas na faculdade FECAF, porém já fiz um curso técnico na ETEC Albert Einstein.😎
+Estou no 3º semestre de Análise e desenvolvimento de sistemas na faculdade FECAF, porém já fiz um curso técnico na ETEC Albert Einstein.😎
 
 Atualmente estou me aprofundando em Python, estou fazendo pequenos projetos pessoais, para ir conseguir progredindo aos poucos.
 
